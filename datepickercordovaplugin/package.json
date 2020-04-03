@@ -1,0 +1,17 @@
+{
+  "name": "datepickercordovaplugin",
+  "version": "1.0.0",
+  "description": "Plugin de captura de data",
+  "cordova": {
+    "id": "com.kuldeep.datepickercordovaplugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Johnny",
+  "license": "MIT"
+}
